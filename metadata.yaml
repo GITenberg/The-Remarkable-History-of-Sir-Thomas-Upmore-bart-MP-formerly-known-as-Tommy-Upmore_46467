@@ -1,9 +1,8 @@
 _repo: The-Remarkable-History-of-Sir-Thomas-Upmore-bart-MP-formerly-known-as-Tommy-Upmore_46467
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46467/46467-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46467-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackmore, R. D. (Richard Doddridge)
@@ -14,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/439
     wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46467#The-Remarkable-History-of-Sir-Thomas-Upmore-bart-MP-formerly-known-as-Tommy-Upmore
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
 identifiers:
